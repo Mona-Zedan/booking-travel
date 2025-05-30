@@ -1,5 +1,5 @@
 # booking-travel
-# Boking - Travel Agency Website
+# Booking - Travel Agency Website
 
 ## Description
 bookingTravel is a modern and responsive travel agency website designed to provide users with an intuitive platform to explore and book travel packages. The website showcases destinations, travel deals, and user-friendly booking features to enhance the travel experience.
