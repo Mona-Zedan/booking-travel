@@ -18,14 +18,14 @@ bookingTravel is a modern and responsive travel agency website designed to provi
 - Bootstrap for responsive design
 - AOS (Animate On Scroll) for animations
 
-you can see it 
+
 
 
 ## Installation & Setup
 1. Clone the repository:
-   ```bash https://github.com/Mona-Zedan/booking-travel.git
+   ```bash
     
-   git clone 
+   git clone  https://github.com/Mona-Zedan/booking-travel.git
    cd exploreease
    ```
 2. Upload the project files to your server.
@@ -59,6 +59,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License.
 
 ## live demo 
+you can see it 
 https://mona-zedan.github.io/booking-travel/
 
 ### Author
